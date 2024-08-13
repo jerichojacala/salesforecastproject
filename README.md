@@ -9,3 +9,6 @@ The working plan of this project is to:
 
 links:
 dataset: https://www.kaggle.com/datasets/yasserh/walmart-dataset/data
+geeksforgeeks timeseries pytorch: https://www.geeksforgeeks.org/time-series-forecasting-using-pytorch/
+medium recurrent neural networks: https://infolksgroup.medium.com/recurrent-neural-network-and-long-term-dependencies-e21773defd92
+geeksforgeeks arima: https://www.geeksforgeeks.org/python-arima-model-for-time-series-forecasting/
