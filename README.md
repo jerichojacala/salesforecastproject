@@ -13,3 +13,4 @@ geeksforgeeks timeseries pytorch: https://www.geeksforgeeks.org/time-series-fore
 medium recurrent neural networks: https://infolksgroup.medium.com/recurrent-neural-network-and-long-term-dependencies-e21773defd92
 geeksforgeeks arima: https://www.geeksforgeeks.org/python-arima-model-for-time-series-forecasting/
 dukearima: https://people.duke.edu/~rnau/411arim.htm
+Forecasting: Principles and Practice ARIMA: https://otexts.com/fpp2/arima.html
