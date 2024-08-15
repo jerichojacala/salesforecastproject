@@ -14,3 +14,4 @@ medium recurrent neural networks: https://infolksgroup.medium.com/recurrent-neur
 geeksforgeeks arima: https://www.geeksforgeeks.org/python-arima-model-for-time-series-forecasting/
 dukearima: https://people.duke.edu/~rnau/411arim.htm
 Forecasting: Principles and Practice ARIMA: https://otexts.com/fpp2/arima.html
+medium stationarity tests: https://medium.com/@ritusantra/tests-for-stationarity-in-time-series-dickey-fuller-test-augmented-dickey-fuller-adf-test-d2e92e214360
