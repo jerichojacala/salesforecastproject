@@ -34,7 +34,7 @@ If Christmas sales decreases are the result of changes in consumer preferences, 
 
 However, some optimism rests in the fact that Christmas week wasn't marked as a holiday in the official data. Only New Year's Eve (the week after) was marked as a holiday, suggesting that Walmart is not running any promotions specific to Christmas. Since Americans generally have their wallets far more open during the Holidays, it may make sense to invest more resources in Christmas or rethink Christmas sales strategies.
 
-If we look at the average real weekly sales for each holiday, we'll find that on average, New Year's sales are often down even compared to regular weeks. Increased purchases during Christmas suggest consumer fatigue which rolles over into the following week. There is also a noticeable gap in sales between Christmas, Thanksgiving, and the rest of the holidays.
+If we look at the average real weekly sales for each holiday, we'll find that on average, New Year's sales are often down even compared to regular weeks. Increased purchases during Christmas suggest consumer fatigue which rolls over into the following week. There is also a noticeable gap in sales between Christmas, Thanksgiving, and the rest of the holidays.
 
 <img src="media\overall_real_sales_holiday.jpg" alt="real sales" width="400"/>
 
