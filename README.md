@@ -10,7 +10,7 @@ Walmart Sales Forecast PDF: Some exploratory data analysis done in the Summer of
 
 Findings:
 
-# Walmart Growth is Stagnating
+# Walmart's Growth is Stagnating
 
 Year over year sales across all stores is stagnating, increasing by only 1.45% from 2010-2011 and 2.74% from 2011-2012 over the February to September period common across all years.
 
@@ -21,6 +21,24 @@ While the increase in growth rate appears reassuring, it appears that Walmart is
 <img src="media\overall_real_sales.jpg" alt="real sales" width="400"/>
 
 Whether the causes include economic downturn, changes in consumer preferences, or other things, it is clear that Walmart's sales strategies must change. 
+
+# Holiday Hangover: Walmart's Christmas Sales Decline
+
+One possible culprit for sales stagnation is the decline in Christmas sales. Real sales on Christmas sunk from $51 million in 2010 too $47 million in 2011, a decrease of about 7.71%.
+
+<img src="media\overall_real_christmas_sales.jpg" alt="real sales" width="400"/>
+
+Given the importance of Christmas as a holiday in terms of sales, this decrease in sales may be partly to blame for stagnating growth. In 2011 (the only complete year in the data), sales on the week of Christmas comprised roughly 3.12% of all sales for the year. The effectiveness of any attempts to remedy this issue, however, remains to be seen.
+
+If Christmas sales decreases are the result of changes in consumer preferences, it may be advisable to invest less resources in Christmas promotions. It's possible that the salience of Christmas in American culture is waning, in which case sales declines may be alleviated but are inevitable.
+
+However, some optimism rests in the fact that Christmas week wasn't marked as a holiday in the official data. Only New Year's Eve (the week after) was marked as a holiday, suggesting that Walmart is not running any promotions specific to Christmas. Since Americans generally have their wallets far more open during the Holidays, it may make sense to invest more resources in Christmas or rethink Christmas sales strategies.
+
+If we look at the average real weekly sales for each holiday, we'll find that on average, New Year's sales are often down even compared to regular weeks. Increased purchases during Christmas suggest consumer fatigue which rolles over into the following week. There is also a noticeable gap in sales between Christmas, Thanksgiving, and the rest of the holidays.
+
+<img src="media\overall_real_christmas_sales.jpg" alt="real sales" width="400"/>
+
+With this information, it appears that by diverting resources assigned to New Year's promotions to Christmas, we may find more success with sales.
 
 links:
 
