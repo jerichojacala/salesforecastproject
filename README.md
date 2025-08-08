@@ -36,7 +36,7 @@ However, some optimism rests in the fact that Christmas week wasn't marked as a 
 
 If we look at the average real weekly sales for each holiday, we'll find that on average, New Year's sales are often down even compared to regular weeks. Increased purchases during Christmas suggest consumer fatigue which rolles over into the following week. There is also a noticeable gap in sales between Christmas, Thanksgiving, and the rest of the holidays.
 
-<img src="media\overall_real_christmas_sales.jpg" alt="real sales" width="400"/>
+<img src="media\overall_real_sales_holiday.jpg" alt="real sales" width="400"/>
 
 With this information, it appears that by diverting resources assigned to New Year's promotions to Christmas, we may find more success with sales.
 
