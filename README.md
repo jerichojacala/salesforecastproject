@@ -30,6 +30,10 @@ One possible culprit for sales stagnation is the decline in Christmas sales. Rea
 
 Given the importance of Christmas as a holiday in terms of sales, this decrease in sales may be partly to blame for stagnating growth. In 2011 (the only complete year in the data), sales on the week of Christmas comprised roughly 3.12% of all sales for the year. The effectiveness of any attempts to remedy this issue, however, remains to be seen.
 
+Christmas sales among stores appear to be declining across the board as well, suggesting systemic issues. Despite overall declines, however, not all stores are affected equally, and some stores were even able to weather the trend and experience growth. Further investigation into store 38 is in line, with an 11.08% growth in real sales change on Christmas. On the other hand, some stores were hit especially hard, namely store 36, with a -25.72% real sales change.
+
+<img src="media\christmas_percent_sales_change.jpg" alt="real sales" width="400"/>
+
 If Christmas sales decreases are the result of changes in consumer preferences, it may be advisable to invest less resources in Christmas promotions. It's possible that the salience of Christmas in American culture is waning, in which case sales declines may be alleviated but are inevitable.
 
 However, some optimism rests in the fact that Christmas week wasn't marked as a holiday in the official data. Only New Year's Eve (the week after) was marked as a holiday, suggesting that Walmart is not running any promotions specific to Christmas. Since Americans generally have their wallets far more open during the Holidays, it may make sense to invest more resources in Christmas or rethink Christmas sales strategies.
