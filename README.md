@@ -44,6 +44,8 @@ If we look at the average real weekly sales for each holiday, we'll find that on
 
 With this information, it appears that by diverting resources assigned to New Year's promotions to Christmas, we may find more success with sales.
 
+
+
 links:
 
 dataset: https://www.kaggle.com/datasets/yasserh/walmart-dataset/data
