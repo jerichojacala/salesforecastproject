@@ -44,7 +44,17 @@ If we look at the average real weekly sales for each holiday, we'll find that on
 
 With this information, it appears that by diverting resources assigned to New Year's promotions to Christmas, we may find more success with sales.
 
+# Rising (and Falling) Stars
 
+Any overall growth or decline could be skewed by a handful of stores. Additionally, certain stores may be employing certain strategies which are effective and generalizable to all stores or which are ineffective and should be cut or reworked. In other words, each store represents a potential case study which could lead to insights on how to maximize sales revenue nationally.
+
+Below is a bar chart on the percent change in sales over February to September in 2012 compared to 2010:
+
+<img src="media\overall_percent_change.jpg" alt="real sales" width="400"/>
+
+Immediately clear is the success of store 38, which has grew by 25% in terms of real sales. It is possible that store 38 is a relatively new store considering its revenues make up less than 1% of the grand total nominal revenues for the data. However, further investigation into regional trends and sales strategies here might still be lucrative.
+
+Unfortunately, not all stores are success stories. Stores 25 and 26 come to mind, with declines of -26.16% and -32.84% respectively. Similarly to store 38, these are smaller stores. The declines might be growing pains associated with newer stores, or poor management. Regardless of what the cause seems to be, we should investigate these stores for further insights.
 
 links:
 
